@@ -6,7 +6,7 @@
     margin-left: 40% !important;
 }
 #nav_bar{
-    margin-bottom: 50px ;
+    margin-bottom: 0px ;
 }
 .gut_float h1{
     font-size: 60px;
@@ -14,17 +14,7 @@
     color: rgba(255, 166, 0, 0.897);
 
 }
-.button{
-    background-color: #A4BC46;
-    
-    text-decoration: none;
-    color: black;
-        
-    padding: 10px 10px;
-    border-radius: 5%;
-    font-weight: 700;
-    
-}
+
 
 .half-width{
     width: 30%;
@@ -36,7 +26,23 @@
     width: 80%;
 }
 .button{
-    background-color:#B2CC4A;
+        
+        
+        background-color: #3D4FF3;
+            
+        text-decoration: none;
+        color: White;
+        padding: 10px 10px;
+        border-radius: 5%;
+        font-weight: 700;
+            
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
 }
 
 
