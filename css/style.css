@@ -51,6 +51,7 @@
 }
 .end_img{
     width: 60%;
+    
 }
 .row_img{
     width: 100%;
@@ -66,5 +67,16 @@
     background-color: white !important;
 }
 
-
+@media (max-width: 760px) {
+    .response{
+        flex-direction: column;
+       
+    }
+    .row_img{
+        max-width: 100%;
+        width: 100%;
+        height: auto !important;
+    }
+    
+}
 
