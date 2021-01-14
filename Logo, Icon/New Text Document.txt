@@ -1,0 +1,19 @@
+                <div class="row">
+                     <div class="col d-flex justify-content-between align-items-center">                       
+                            <!-- Pictures and content added -->
+                            <div>
+                                <img class="end_img" src="Logo, Icon/image 12.png" alt="">
+                            </div>
+                            <div>
+                                <h5>find the perfect fit</h5>
+                                <p>EveryBody is different which is why we offer styles for everybody</p>
+                            </div>                            
+                     </div>
+                
+
+                    <div class="col-7 row-3">
+
+
+
+                    </div>
+                </div>
